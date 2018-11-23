@@ -6,7 +6,7 @@
 // +----------------------------------------------------------------------
 // | Licensed ( http://www.apache.org/licenses/LICENSE-2.0 )
 // +----------------------------------------------------------------------
-// | Author: Byron Sampson <xiaobo.sun@gzzstudio.net>
+// | AAuthor: Byron Sampson <xiaobo.sun@gzzstudio.net>
 // +----------------------------------------------------------------------
 namespace think;
 
